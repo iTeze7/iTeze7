@@ -15,7 +15,7 @@ Sou **Desenvolvedor Front-End** com foco em **Landing Pages**, criando interface
 - ⚡ Código limpo, organizado e performático
 - 🎨 Atenção a detalhes visuais e experiência do usuário
 
-📌 **Portfólio:** [seusite.com]([https://seusite.com](https://iteze.vercel.app))
+📌 **Portfólio:** [seusite.com](https://iteze.vercel.app)
 
 ---
 
@@ -58,7 +58,7 @@ Sou **Desenvolvedor Front-End** com foco em **Landing Pages**, criando interface
 
 ## 🤝 Vamos conversar?
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge)]([https://seusite.com](https://iteze.vercel.app))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/higor-oliveira-1611071123s2/))
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]([https://github.com/seuusuario](https://www.linkedin.com/in/higor-oliveira-1611071123s2/))
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)]([https://instagram.com/seuinstagram](https://www.instagram.com/itezedev/))
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge)](https://iteze.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/higor-oliveira-1611071123s2/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://www.linkedin.com/in/higor-oliveira-1611071123s2/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/itezedev/)

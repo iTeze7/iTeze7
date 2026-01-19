@@ -15,7 +15,7 @@ Sou **Desenvolvedor Front-End** com foco em **Landing Pages**, criando interface
 - ⚡ Código limpo, organizado e performático
 - 🎨 Atenção a detalhes visuais e experiência do usuário
 
-📌 **Portfólio:** [seusite.com](https://iteze.vercel.app)
+📌 **Portfólio:** [iteze.vercel.app](https://iteze.vercel.app)
 
 ---
 

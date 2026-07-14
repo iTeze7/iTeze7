@@ -1,17 +1,17 @@
 # Olá, eu sou Higor Endrik 👋✨
 
-### 💻 Desenvolvedor Front-End • 🎨 Landing Pages Responsivas
+### 💻 Desenvolvedor Front-End • 🎨 Sites Responsivos
 
-> Crio **landing pages modernas, responsivas e focadas em conversão**, unindo design, performance e boa experiência do usuário.
+> Crio **Sites modernas, responsivos e focados em conversão**, unindo design, performance e boa experiência do usuário.
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Front-End** com foco em **Landing Pages**, criando interfaces rápidas, responsivas e bem estruturadas, sempre pensando em **UX/UI**, acessibilidade e performance.
+Sou **Desenvolvedor Front-End** com foco em **Criação de Sites**, criando interfaces rápidas, responsivos e bem estruturados, sempre pensando em **UX/UI**, acessibilidade e performance.
 
 - 📱 Design totalmente responsivo (mobile first)
-- 🎯 Landing pages focadas em conversão
+- 🎯 sites focadas em conversão
 - ⚡ Código limpo, organizado e performático
 - 🎨 Atenção a detalhes visuais e experiência do usuário
 
@@ -60,5 +60,5 @@ Sou **Desenvolvedor Front-End** com foco em **Landing Pages**, criando interface
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge)](https://iteze.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/higor-oliveira-1611071123s2/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://www.linkedin.com/in/higor-oliveira-1611071123s2/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/iTeze7)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/itezedev/)

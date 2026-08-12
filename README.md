@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Front-End • 🎨 Sites Responsivos
 
-> Crio **Sites modernas, responsivos e focados em conversão**, unindo design, performance e boa experiência do usuário.
+> Crio **Sites modernos, responsivos e focados em conversão**, unindo design, performance e boa experiência do usuário.
 
 ---
 

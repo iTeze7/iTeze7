@@ -36,7 +36,7 @@ Sou **Desenvolvedor Front-End** com foco em **Criação de Sites**, criando inte
 
 ### 🗄️ Backend as a Service
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
-![Sql](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Sql](https://img.shields.io/badge/PlSql-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 

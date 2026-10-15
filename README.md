@@ -49,11 +49,11 @@ Sou **Desenvolvedor Front-End** com foco em **Criação de Sites**, criando inte
 
 ## O que eu desenvolvo
 
-- ✔️ Landing Pages
-- ✔️ Sites institucionais
-- ✔️ Interfaces responsivas
-- ✔️ Páginas focadas em performance e conversão
-- ✔️ Integração com APIs e Supabase
+- Landing Pages
+- Sites institucionais
+- Interfaces responsivas
+- Páginas focadas em performance e conversão
+- Integração com APIs e Supabase
 
 ---
 
